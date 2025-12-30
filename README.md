@@ -40,4 +40,9 @@ Berdasarkan hasil praktikum, dapat disimpulkan bahwa:
 3. Serangan SYN Flood terbukti paling efektif melumpuhkan layanan web server secara total (100% packet loss) dibandingkan metode lainnya dalam skenario ini.
 
 ---
+## Link Video
+https://youtu.be/mR_0F09cbL8?si=NkOOlUOLkqQbsWwp
+
+
+
 *Dokumentasi ini dibuat untuk tujuan edukasi dalam lingkup praktikum keamanan jaringan.*
